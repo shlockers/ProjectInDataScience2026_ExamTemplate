@@ -56,3 +56,7 @@ ProjectInDataScience2026_ExamTemplate/
 
 1. DO NOT upload your data (images) to Github.
 2. When the same code block needs to be executed multiple times in the script, make it a custom function instead. All the custom functions and modules should be grouped into different files under the *"src"* subfolder, based on the task they are designed for. Do not put everything in a single Python file or copy-paste the same code block across the script.
+
+## Members
+- Rui
+
