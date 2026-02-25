@@ -46,7 +46,9 @@ ProjectInDataScience2026_ExamTemplate/
 │   ├── figures/        # Figures used in your report
 │   ├── models/         # Trained models
 │   ├── predictions/    # Probabilities outputed by the models
-│   └── report.pdf      # your report in PDF
+│   └── reports         # Files related to the Mandatory assignment
+│        ├── report_GROUPEID.pdf
+│        └── features_GROUPEID.csv
 │ 
 ├── main.py             # script to train or evaluate models
 └── README.md
